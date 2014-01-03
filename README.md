@@ -1,4 +1,4 @@
-CentOS6.ks
+CentOS KickStart
 ==========
 
-CentOS 6 Kickstart
+Just another bunch of kickstart files.
