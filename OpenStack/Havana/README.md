@@ -1,4 +1,4 @@
-CentOS KickStart
+CentOS Kickstart
 ==========
 
 CentOS 6 kickstart file with minimal stuff and the extras that needed to make an OpenStack CentOS Image. Included in %post is a bit to resize the root filesystem to the size of the actual device provided to the VM.
